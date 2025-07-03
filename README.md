@@ -1,4 +1,4 @@
-# Bayesian Spatio-Temporal SAE Visualization
+# Bayesian Spatio-Temporal Small Area Estimation
 
 This repository contains code to run a **Bayesian Spatio-Temporal Small Area Estimation (SAE)** model and generate visualizations. The model example estimates county-level carbon density over time (2008–2021) for California, incorporating spatial/temporal structure and quantifying uncertainty. See the [arXiv Preprint](https://doi.org/10.48550/arXiv.2503.08653) for more details. 
 
